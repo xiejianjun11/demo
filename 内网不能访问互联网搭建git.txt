@@ -1,0 +1,2 @@
+解压gitlab_35851.zip 
+运行install.sh 解压路径  还是少依赖包
